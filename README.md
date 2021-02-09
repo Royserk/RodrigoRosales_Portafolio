@@ -1,5 +1,5 @@
-# RodrigoRosales_Portafolio
-Portafolio for multiple Data Science projects using Python.
+# RodrigoRosales_Portfolio
+Portfolio for multiple Data Science projects using Python.
 
 # [Project 1: Predicting who survived from the Titanic Shipwreck](https://github.com/Royserk/Titanic/blob/main/Titanic.ipynb)
 Participating on the Machine Learning competition of Kaggle named ["Titanic - Machine Learning from Disaster".](https://www.kaggle.com/c/titanic)
