@@ -25,3 +25,25 @@ This is a project that predicts who survived from the Titanic Shipwreck ocurred 
     - Logistic Regression
 13. Predicting with the best Model
 14. Importing the values into a CSV File
+
+
+# [Project 2: Netflix Movies and TV Shows Analisis](https://github.com/Royserk/911_Calls/blob/main/Emergency%20911%20Calls.ipynb)
+In this projectI was able to use Python to do some data wrangling and I worked with different types of columns to create some powerful visualizations to see how the emergency calls varied in diferent time frames.
+I used the dataset [Netflix Movies and TV Shows](https://www.kaggle.com/mchirico/montcoalert) by Montgomery County, PA.
+#### Project Planning
+1. Import the libraries and Dataset
+2. Explore the dataset
+3. Data wrangling
+4. Visualizations 
+
+
+# [Project 3: Netflix Movies and TV Shows Analisis](https://github.com/Royserk/Netflix/blob/main/Netflix.ipynb)
+This project is all about usign the basics of Pandas, Seaborn and Matplotlib. I created some beautiful visualizations to see trends on the data.
+I used the dataset [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) that was put together by Flixable.
+#### Project Planning
+1. Import the libraries and Dataset
+2. Explore the dataset
+3. Visualizations 
+
+
+
